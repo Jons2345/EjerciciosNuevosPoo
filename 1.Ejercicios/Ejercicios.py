@@ -80,7 +80,6 @@ print(f"Promedio: {r['promedio']:.2f}")
 # se utilizo lower() y replace() para limpiar el texto antes de contar.
 #  ademas se utilizo el get  que devuelve el valor actual o 0 si no existe,
 
-#Aún más elegante: collections.Counter. Lo veremos en el módulo 5.
 
 
 ## Paso 4: Escribir el código

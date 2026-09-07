@@ -1,3 +1,0 @@
-
-
-![leon](leon.jpeg)
